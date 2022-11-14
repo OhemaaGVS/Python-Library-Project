@@ -1,0 +1,59 @@
+13,razz,Sci-Fi,Cyborgs,2021-4-02,N/A
+22,razz,Sci-Fi,Demise,2021-5-04,N/A
+48,razz,Sci-Fi,Cyborgs,2020-12-10,N/A
+50,razz,Sci-Fi,Demise,2020-12-31,N/A
+21,razz,Horror,Intruders,2021-01-05,N/A
+41,razz,Horror,Spiders,2021-12-02,N/A
+43,razz,Horror,Spiders,2021-01-21,N/A
+33,razz,Horror,Spiders,2021-02-18,N/A
+9,razz,Humour,Perfect,2021-12-02,N/A
+42,fizz,Horror,Spiders,2021-5-09,N/A
+23,fizz,Horror,Intruders,2021-12-02,N/A
+31,fizz,Horror,Intruders,2021-9-11,N/A
+38,fizz,Drama,Escape,2021-12-02,N/A
+10,jock,Mystery,Unknown,2020-12-02,N/A
+5,jock,Horror,Traitors,2021-12-02,N/A
+36,jock,Horror,Traitors,2021-09-29,N/A
+16,chez,Action,The End,2021-9-02,N/A
+46,chez,Action,Defenders,2021-12-02,N/A
+17,chez,Romance,Amoure,2021-08-11,N/A
+39,mazy,Romance,Admirer,2021-12-02,N/A
+2,razz,Horror,Spiders,2021-12-02,2021-12-02
+2,mazy,Horror,Spiders,2021-12-02,N/A
+26,ziff,Humour,Perfect,2021-12-02,N/A
+3,ziff,Childrens Book,Winter,2021-12-02,N/A
+12,ziff,Action,Defenders,2021-12-02,N/A
+40,fozy,Humour,Perfect,2021-03-17,N/A
+44,fozy,Mystery,Unknown,2021-7-02,N/A
+14,razz,Horror,Intruders,2021-12-02,2021-12-02
+47,razz,Sci-Fi,Cyborgs,2021-12-02,2021-12-02
+8,chez,Romance,Admirer,2021-12-02,2021-12-02
+37,whiz,Fantasy,Immortal,2021-12-02,N/A
+32,whiz,Sci-Fi,Cinder,2021-12-02,N/A
+15,java,Sci-Fi,Demise,2021-12-02,N/A
+11,java,Sci-Fi,Eternity,2021-12-02,N/A
+24,jagg,Drama,Escape,2021-12-02,N/A
+49,jagg,Sci-Fi,Demise,2021-08-04,N/A
+28,jagg,Sci-Fi,Eternity,2021-12-02,N/A
+1,razz,Sci-Fi,Cinder,2021-12-02,2021-12-02
+6,fizz,Fantasy,Immortal,2021-12-02,2021-12-02
+14,cinq,Horror,Intruders,2021-12-02,2021-12-02
+45,whiz,Sci-Fi,Eternity,2021-12-02,2021-12-02
+27,mazy,Mystery,Unknown,2021-12-02,2021-12-02
+8,cinq,Romance,Admirer,2021-12-02,2021-12-02
+30,jace,Sci-Fi,Cyborgs,2021-8-02,N/A
+4,jace,Sci-Fi,Hunters,2021-12-02,N/A
+27,jace,Mystery,Unknown,2020-12-02,N/A
+34,baza,Childrens Book,Winter,2021-12-02,N/A
+19,faze,Childrens Book,Winter,2021-2-02,N/A
+14,faze,Horror,Intruders,2021-12-02,N/A
+45,faze,Sci-Fi,Eternity,2021-06-03,N/A
+35,razz,Sci-Fi,Hunters,2021-12-02,2021-12-02
+1,faze,Sci-Fi,Cinder,2021-12-02,2021-12-02
+1,chez,Sci-Fi,Cinder,2021-12-02,2021-12-02
+1,baza,Sci-Fi,Cinder,2021-12-02,2021-12-02
+47,cinq,Sci-Fi,Cyborgs,2021-12-02,2021-12-02
+18,java,Childrens Book,Winter,2021-12-02,2021-12-02
+25,fozy,Romance,Admirer,2021-12-02,2021-12-02
+29,chez,Action,Defenders,2021-12-02,2021-12-02
+7,java,Drama,Escape,2021-12-02,2021-12-02
